@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Derry Riccardo</h1>
 <h3 align="center">I'm interested in tech stuffs and I'm currently learning Web Development and want to become a FullStack Developer or UI/UX Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=derryriccardo&label=Profile%20views&color=0e75b6&style=flat" alt="derryriccardo" /> </p>
-
-<p align="left"> <a href="https://twitter.com/derryriccardo" target="blank"><img src="https://img.shields.io/twitter/follow/derryriccardo?logo=twitter&style=for-the-badge" alt="derryriccardo" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development stuffs**
 
